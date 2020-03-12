@@ -1,0 +1,157 @@
+[
+  {
+    "type": "Repository",
+    "id": 21647,
+    "name": "web",
+    "active": true,
+    "events": [
+      "issue_comment",
+      "pull_request",
+      "pull_request_review",
+      "push"
+    ],
+    "config": {
+      "content_type": "json",
+      "url": "https://sdlchook.company.net/github/payloads/relay",
+      "insecure_ssl": "0"
+    },
+    "updated_at": "2020-02-25T23:18:23Z",
+    "created_at": "2019-07-09T12:12:27Z",
+    "url": "https://github.ambsflip.com/api/v3/repos/company/garrison/hooks/21647",
+    "test_url": "https://github.ambsflip.com/api/v3/repos/company/garrison/hooks/21647/test",
+    "ping_url": "https://github.ambsflip.com/api/v3/repos/company/garrison/hooks/21647/pings",
+    "last_response": {
+      "code": null,
+      "status": "unused",
+      "message": null
+    }
+  },
+  {
+    "type": "Repository",
+    "id": 22569,
+    "name": "web",
+    "active": true,
+    "events": [
+      "issue_comment",
+      "pull_request",
+      "pull_request_review",
+      "push"
+    ],
+    "config": {
+      "content_type": "json",
+      "url": "http://10.47.12.61/prwatcher/validate/checks",
+      "insecure_ssl": "0"
+    },
+    "updated_at": "2019-09-03T23:10:56Z",
+    "created_at": "2019-09-03T23:10:56Z",
+    "url": "https://github.ambsflip.com/api/v3/repos/company/garrison/hooks/22569",
+    "test_url": "https://github.ambsflip.com/api/v3/repos/company/garrison/hooks/22569/test",
+    "ping_url": "https://github.ambsflip.com/api/v3/repos/company/garrison/hooks/22569/pings",
+    "last_response": {
+      "code": null,
+      "status": "unused",
+      "message": null
+    }
+  },
+  {
+    "type": "Repository",
+    "id": 27553,
+    "name": "web",
+    "active": true,
+    "events": [
+      "push"
+    ],
+    "config": {
+      "url": "https://jira.ambsflip.com/rest/bitbucket/1.0/repository/1657/sync",
+      "insecure_ssl": "0",
+      "content_type": "form"
+    },
+    "updated_at": "2019-11-27T08:14:22Z",
+    "created_at": "2019-11-27T08:14:22Z",
+    "url": "https://github.ambsflip.com/api/v3/repos/company/garrison/hooks/27553",
+    "test_url": "https://github.ambsflip.com/api/v3/repos/company/garrison/hooks/27553/test",
+    "ping_url": "https://github.ambsflip.com/api/v3/repos/company/garrison/hooks/27553/pings",
+    "last_response": {
+      "code": null,
+      "status": "unused",
+      "message": null
+    }
+  },
+  {
+    "type": "Repository",
+    "id": 27554,
+    "name": "web",
+    "active": true,
+    "events": [
+      "issue_comment",
+      "pull_request",
+      "pull_request_review_comment",
+      "push"
+    ],
+    "config": {
+      "content_type": "json",
+      "url": "https://jira.ambsflip.com/rest/bitbucket/1.0/repository/1657/sync",
+      "insecure_ssl": "0"
+    },
+    "updated_at": "2019-11-27T08:14:22Z",
+    "created_at": "2019-11-27T08:14:22Z",
+    "url": "https://github.ambsflip.com/api/v3/repos/company/garrison/hooks/27554",
+    "test_url": "https://github.ambsflip.com/api/v3/repos/company/garrison/hooks/27554/test",
+    "ping_url": "https://github.ambsflip.com/api/v3/repos/company/garrison/hooks/27554/pings",
+    "last_response": {
+      "code": null,
+      "status": "unused",
+      "message": null
+    }
+  },
+  {
+    "type": "Repository",
+    "id": 29776,
+    "name": "web",
+    "active": true,
+    "events": [
+      "issue_comment",
+      "label",
+      "pull_request"
+    ],
+    "config": {
+      "content_type": "form",
+      "insecure_ssl": "0",
+      "url": "http://10.47.1.235/ghprbhook/"
+    },
+    "updated_at": "2019-11-27T10:05:27Z",
+    "created_at": "2019-11-27T10:05:11Z",
+    "url": "https://github.ambsflip.com/api/v3/repos/company/garrison/hooks/29776",
+    "test_url": "https://github.ambsflip.com/api/v3/repos/company/garrison/hooks/29776/test",
+    "ping_url": "https://github.ambsflip.com/api/v3/repos/company/garrison/hooks/29776/pings",
+    "last_response": {
+      "code": null,
+      "status": "unused",
+      "message": null
+    }
+  },
+  {
+    "type": "Repository",
+    "id": 30013,
+    "name": "web",
+    "active": true,
+    "events": [
+      "push"
+    ],
+    "config": {
+      "content_type": "json",
+      "insecure_ssl": "0",
+      "url": "http://10.47.1.235/github-webhook/"
+    },
+    "updated_at": "2019-12-10T08:55:23Z",
+    "created_at": "2019-12-10T08:55:23Z",
+    "url": "https://github.ambsflip.com/api/v3/repos/company/garrison/hooks/30013",
+    "test_url": "https://github.ambsflip.com/api/v3/repos/company/garrison/hooks/30013/test",
+    "ping_url": "https://github.ambsflip.com/api/v3/repos/company/garrison/hooks/30013/pings",
+    "last_response": {
+      "code": null,
+      "status": "unused",
+      "message": null
+    }
+  }
+]
